@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+feedback.db
+.env
+venv/
+.idea/
+.vscode/
